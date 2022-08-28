@@ -1,0 +1,5 @@
+Here are the results of the benchmark with spin enabled:
+
+Device:                 FPS:  Cubes:  Triangles:
+Samsung Galaxy J5       60    518      6216
+Samsung Galaxy J5       42    841     10092
