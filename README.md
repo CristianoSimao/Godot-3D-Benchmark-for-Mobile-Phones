@@ -18,3 +18,5 @@ Screenshot:
 Here are a video in YouTube showing the result:
 https://youtu.be/oGbLKu_-Pww
 
+## Benchmark Results
+https://github.com/CristianoSimao/Godot-3D-Benchmark-for-Mobile-Phones/blob/main/Benchmark-Results
