@@ -9,7 +9,7 @@ https://github.com/CristianoSimao/Godot-3D-Benchmark-for-Mobile-Phones/blob/main
 
 For install you will need enable **"install from unknown sources"** in your android device.
 
-For change the setting inside Godot and recompile, you will need install all the Android tool, read the Godot documentation for instructions how to compile to Android. The download of Android tools is more than **2GB** then you will need a good internet connection.
+For change the setting inside Godot and recompile, you will need install all the Android tools, read the Godot documentation for instructions how to compile to Android. The download of Android tools is more than **2GB** then you will need a good internet connection.
 
 Screenshot:
 
