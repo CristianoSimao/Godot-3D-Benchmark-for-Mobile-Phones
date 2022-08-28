@@ -1,0 +1,11 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://cubo_Cube.mesh" type="ArrayMesh" id=1]
+[ext_resource path="res://Cubinho.gd" type="Script" id=2]
+
+[node name="Cubinho" type="Spatial"]
+script = ExtResource( 2 )
+
+[node name="MeshInstance" type="MeshInstance" parent="."]
+mesh = ExtResource( 1 )
+material/0 = null
